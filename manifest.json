@@ -6,6 +6,6 @@
   "permissions": ["activeTab"],
   "action": {
     "default_popup": "popup.html",
-    "default_icon": "hi code (1).png"
+    "default_icon": "LOL.png"
   }
 }
