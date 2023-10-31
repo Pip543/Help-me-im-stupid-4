@@ -24,7 +24,6 @@ document.addEventListener("DOMContentLoaded", function () {
       "Why did the two red blood cells break up? Because their love was all in vein",
       "Why did the biologist break up with the physicist? They had no chemistry",
       "Wanna hear a joke about paper? Nevermind it's wearable!",
-      "Did you hear the rumour about butter? Well, I'm not going to spread it",
       "Singing in the shower is fun. Until you get soap in your mouth. Then it becomes a soap opera.",
     
       
