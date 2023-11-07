@@ -9,11 +9,8 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   async function fetchJoke() {
-    // You can use a joke API or an array of jokes
-    // Replace this with your own logic
-    // Example API usage: const response = await fetch("your_joke_api_url");
-    // const data = await response.json();
-    // return data.joke;
+    // Could use an API for the jokes instead 
+    // kinda too much effort tho
 
     const jokes = [
       "Why don't scientists trust atoms? Because they make up everything!",
